@@ -39,3 +39,5 @@ Si quieres, puedes subir pantallazos y enlazarlos aquí.
 https://github.com/DEZ80/1-p08-reto-domina-el-formato-kikon2000/blob/master/linea%20roja.jpg
 
 https://github.com/DEZ80/1-p08-reto-domina-el-formato-kikon2000/blob/master/serie%20(2).jpg
+
+https://github.com/DEZ80/1-p08-reto-domina-el-formato-kikon2000/blob/master/reya%20muy%20larga.bmp
