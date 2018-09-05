@@ -36,3 +36,4 @@ PC: 4000
 Si quieres, puedes subir pantallazos y enlazarlos aquí.
 ![Actividad 1](/pixelrojo.png)
 
+https://github.com/DEZ80/1-p08-reto-domina-el-formato-kikon2000/blob/master/linea%20roja.jpg
