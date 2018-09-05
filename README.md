@@ -43,3 +43,5 @@ https://github.com/DEZ80/1-p08-reto-domina-el-formato-kikon2000/blob/master/seri
 https://github.com/DEZ80/1-p08-reto-domina-el-formato-kikon2000/blob/master/reya%20muy%20larga.bmp
 
 https://github.com/DEZ80/1-p08-reto-domina-el-formato-kikon2000/blob/master/serie.jpg
+
+https://github.com/DEZ80/1-p08-reto-domina-el-formato-kikon2000/blob/master/y.jpg
